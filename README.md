@@ -1,3 +1,4 @@
 # kottans-frontend
 kottans-frontend course is very interesting. Hope to learn all of it.
-![1mb](https://user-images.githubusercontent.com/108359729/182030227-ce2e6f47-ff9c-4136-84c6-78f440a653b6.gif)
+![photo_2022-04-25_14-41-45](https://user-images.githubusercontent.com/108359729/182030283-721c41a6-e303-414f-aa4e-092867fc79bb.jpg)
+
